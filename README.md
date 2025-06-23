@@ -1,0 +1,2 @@
+# ECG_Signal_Processing_and_Feature_Extraction
+设计一个高通滤波器和一个低通滤波器，对心电（ECG）信号进行滤波以消除ECG信号基线漂移和高频噪音，并检测ECG信号峰值、提取某些典型信号特征。
